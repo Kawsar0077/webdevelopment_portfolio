@@ -164,7 +164,7 @@ footer input[type="email"]{
     margin-bottom: 24px;
     border: none;
 }
-footer input[type="extarea"]{
+footer input[type="textarea"]{
     height: 64px;
     border-radius: 5px;
     background-color: white;
